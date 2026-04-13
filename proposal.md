@@ -1,0 +1,41 @@
+#Final Project Proposal
+
+## Repository
+https://github.com/joshuabamoako-art/pac-power
+
+## Description
+This repsitory will show you how to create a pac-man game through python. This could be relavent to both media and digital arts, as it's open-source for a collaborative and creative digital projects.
+
+## Features
+- Maze/Grid System
+  - I plan for this feature to execute a 2D data structured maze that looks identical to any pac-man game, but with any unnique style that anyone could create.
+- Player Control
+  - I intend for to have this feature to be executed through input events that are within the main game loop.
+- Collision Detection
+  - I anticipate on having this feature be executed through any built-in library methods, such as pygame.
+
+## Challenges
+- Grid-Based Movement
+- 2D Collision Detection
+- State Management
+
+## Outcomes
+Ideal Outcome: 
+- For this project, I hope to accomplish creating a pac-man game that functions. I want to make sure that this game will live up to people's expectations, especially if I'm going to share share it's respsitory to the public.
+
+Minimal Viable Outcome:
+- If anything in the process doesn't go as planned, I hope I can at least successfully execute the grid-based movement and 2D collision detection. I feel like those are the two main features that would make the game more engaging for people to play.
+
+## Milestones
+
+- Week 1
+  Goal 1: Set the enviornment
+  Goal 2: Design the maze
+
+- Week 2
+  Goal 1: Implement game logic
+  Goal 2: Add some extra features of my own
+
+- Week N (Final)
+  Goal 1: Create a game loop (run some tests)
+  Goal 2: Finalize the designs of the characters in the game (ex. pac-man and the ghosts)
